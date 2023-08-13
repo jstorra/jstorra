@@ -1,8 +1,6 @@
-# *¡Hola!, Soy Juan Sebastian Torra Garcia* 👋
+<h3>¡Hola!, Soy <strong>Juan Sebastian Torra Garcia</strong></h3> 👋
 
-<p align="right">
-   Apasionado técnico en programación de software con formación en el SENA. Desde que descubrí el mundo de la programación, me sumergí de lleno en él y me siento realmente enamorado de lo que hago.
-</p>
+Apasionado técnico en programación de software con formación en el SENA. Desde que descubrí el mundo de la programación, me sumergí de lleno en él y me siento realmente enamorado de lo que hago.
 
 Mi trayectoria en el SENA me proporcionó una base sólida en programación, pero mi sed de conocimiento no se detiene allí. Siempre estoy buscando formas de superar mis propios límites, aprendiendo de manera autodidacta y experimentando con nuevas tecnologías y enfoques. Cada línea de código que escribo es una oportunidad para aprender algo nuevo y desafiante.
 
