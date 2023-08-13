@@ -13,13 +13,8 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA y CAMPUSLANDS](/img/senaycampus.png)
 
 # Habilidades 🧩
-
-<a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" />
-  </a>
-
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 5px">
-  <img align="center" src="/img/html5" alt="HTML5" />
+  <img align="center" src="/img/html5.png" alt="HTML5" />
 </a>
 
 ![HTML5](/img/html5.png)             ![CSS](/img/css.png)
