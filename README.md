@@ -13,7 +13,7 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA](/img/sena.png)
 ![CAMPUSLANDS](/img/campuslands.png)
 
-## Habilidades 🧩
+# Habilidades 🧩
 ![HTML5](/img/html5.png)             ![CSS](/img/css.png)
 ![JAVASCRIPT](/img/javascript.png)
 ![JAVA](/img/java.png)
