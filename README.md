@@ -20,14 +20,6 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
   <img align="center" src="/img/css.png" alt="CSS" />
 </a>
 
-
-
-
-![HTML5](/img/html5.png)             ![CSS](/img/css.png)
-![JAVASCRIPT](/img/javascript.png)
-![JAVA](/img/java.png)
-![PYTHON](/img/python.png)
-
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
