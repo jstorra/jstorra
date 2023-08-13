@@ -13,13 +13,8 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA y CAMPUSLANDS](/img/senaycampus.png)
 
 # Habilidades 🧩
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 15px">
-  <img align="center" src="/img/html5.png" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style="margin-right: 15px">
-  <img align="center" src="/img/css.png" alt="CSS" />
-</a>
 
+![SKILLS](/img/myskills.png)
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
