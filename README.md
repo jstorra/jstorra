@@ -13,7 +13,7 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA](https://colombiaestudia.com/wp-content/uploads/2022/03/Logo_SENA.png)
 ![HTML5](/html5 - copia.png)
 
-En su barba vivían tres <span style="color:red">juan sebastian torra garcia</span>.
+En su barba vivían tres <span style="color:red">juan sebastian torra gsarcia</span>.
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
