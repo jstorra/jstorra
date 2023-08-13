@@ -1,4 +1,4 @@
-# *¡Hola!, Soy <span style="color:tomato" >**Juan Sebastian Torra Garcia**</span>* 👋
+# *¡Hola!, Soy <span style="color:tomato">**Juan Sebastian Torra Garcia**</span>* 👋
 
 Apasionado técnico en programación de software con formación en el SENA. Desde que descubrí el mundo de la programación, me sumergí de lleno en él y me siento realmente enamorado de lo que hago.
 
@@ -13,7 +13,7 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA](https://colombiaestudia.com/wp-content/uploads/2022/03/Logo_SENA.png)
 ![HTML5](/html5 - copia.png)
 
-En su barba vivían tres <span style="color:red">cardenales</span>.
+En su barba vivían tres <span style="color:red">juan sebastian torra garcia</span>.
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
