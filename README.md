@@ -11,17 +11,15 @@ La investigación es una de mis pasiones principales. Siempre me emociona la opo
 En resumen, soy un entusiasta de la programación que nunca se cansa de aprender y crecer. Siempre estoy listo para enfrentar nuevos desafíos y estoy emocionado por lo que el futuro de la tecnología nos depara. Si compartes mi pasión por la programación, la investigación y el aprendizaje constante, ¡me encantaría conectarme contigo!
 
 ![SENA y CAMPUSLANDS](/img/senaycampus.png)
+
 # Habilidades 🧩
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 5px">
+<img align="center" src="/img/html5" alt="HTML5">
+</a>
 ![HTML5](/img/html5.png)             ![CSS](/img/css.png)
 ![JAVASCRIPT](/img/javascript.png)
 ![JAVA](/img/java.png)
 ![PYTHON](/img/python.png)
-
-<p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
-</p>
-
 
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
