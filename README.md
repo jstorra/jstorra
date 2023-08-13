@@ -11,7 +11,6 @@ La investigación es una de mis pasiones principales. Siempre me emociona la opo
 En resumen, soy un entusiasta de la programación que nunca se cansa de aprender y crecer. Siempre estoy listo para enfrentar nuevos desafíos y estoy emocionado por lo que el futuro de la tecnología nos depara. Si compartes mi pasión por la programación, la investigación y el aprendizaje constante, ¡me encantaría conectarme contigo!
 
 ![SENA y CAMPUSLANDS](/img/senaycampus.png)
-
 # Habilidades 🧩
 ![HTML5](/img/html5.png)             ![CSS](/img/css.png)
 ![JAVASCRIPT](/img/javascript.png)
