@@ -14,7 +14,7 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 
 # Habilidades 🧩
 
-![COMING SOON...🤙](/img/myskills.png)
+![COMING SOON...👌](/img/myskills.png)
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
