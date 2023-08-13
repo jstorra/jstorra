@@ -1,6 +1,6 @@
 # *¡Hola 👋! Soy Juan Sebastian Torra Garcia*
 
-Apasionado técnico en programación de software con formación en el <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" target="_blank">SENA</a>. Desde que descubrí el mundo de la programación, me sumergí de lleno en él y me siento realmente enamorado de lo que hago.
+Apasionado técnico en programación de software con formación en el [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx). Desde que descubrí el mundo de la programación, me sumergí de lleno en él y me siento realmente enamorado de lo que hago.
 
 Mi trayectoria en el SENA me proporcionó una base sólida en programación, pero mi sed de conocimiento no se detiene allí. Siempre estoy buscando formas de superar mis propios límites, aprendiendo de manera autodidacta y experimentando con nuevas tecnologías y enfoques. Cada línea de código que escribo es una oportunidad para aprender algo nuevo y desafiante.
 
@@ -13,10 +13,10 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 ![SENA y CAMPUSLANDS](/img/senaycampus.png)
 
 # Habilidades 🧩
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 5px">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 15px">
   <img align="center" src="/img/html5.png" alt="HTML5" />
 </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style="margin-right: 5px">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style="margin-right: 15px">
   <img align="center" src="/img/css.png" alt="CSS" />
 </a>
 
