@@ -10,7 +10,7 @@ La investigación es una de mis pasiones principales. Siempre me emociona la opo
 
 En resumen, soy un entusiasta de la programación que nunca se cansa de aprender y crecer. Siempre estoy listo para enfrentar nuevos desafíos y estoy emocionado por lo que el futuro de la tecnología nos depara. Si compartes mi pasión por la programación, la investigación y el aprendizaje constante, ¡me encantaría conectarme contigo!
 
-<center>(https://colombiaestudia.com/wp-content/uploads/2022/03/Logo_SENA.png)</center>
+<center>![SENA](https://colombiaestudia.com/wp-content/uploads/2022/03/Logo_SENA.png)</center>
 <!--
 **jstorra/jstorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
