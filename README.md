@@ -14,6 +14,10 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 
 # Habilidades 🧩
 
+<a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 5px">
   <img align="center" src="/img/html5" alt="HTML5" />
 </a>
