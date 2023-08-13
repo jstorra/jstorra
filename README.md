@@ -16,6 +16,7 @@ En resumen, soy un entusiasta de la programación que nunca se cansa de aprender
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" style="margin-right: 5px">
 <img align="center" src="/img/html5" alt="HTML5">
 </a>
+
 ![HTML5](/img/html5.png)             ![CSS](/img/css.png)
 ![JAVASCRIPT](/img/javascript.png)
 ![JAVA](/img/java.png)
